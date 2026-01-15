@@ -56,10 +56,10 @@ Database integration and authentication will be introduced in later phases.
 ## Project Structure
 
 app/
-api/ # API route definitions
-schemas/ # Request & response schemas
-core/ # Application configuration
-main.py # Application entry point
+-api/ # API route definitions
+-schemas/ # Request & response schemas
+-core/ # Application configuration
+-main.py # Application entry point
 
 ---
 
